@@ -9,5 +9,5 @@ Had you done the following :
 
 - [ ] Summary added !
 
-### once your pr get's merged take some time ⏲️, celebrate 🥳 and share it with the community on slack .
+### once your PR get's merged - Take some time ⏲️, Celebrate 🥳 and share it with the community on slack .
  
