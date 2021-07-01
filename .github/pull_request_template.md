@@ -1,5 +1,6 @@
 
-Check on whether it's 
+<!--Check on whether it's -->
+Mark 'x' inside the brackets which best suits your project.
 <!-- to check put x inside [] eg. [x] -->
  
 - [ ] Extension 
@@ -9,5 +10,5 @@ Had you done the following :
 
 - [ ] Summary added !
 
-### once your pr get's merged take some time ⏲️, celebrate 🥳 and share it with the community on slack .
+### Once your PR get's merged - Take some time ⏲️, Celebrate 🥳 and share it with the community on slack .
  
